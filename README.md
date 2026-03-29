@@ -1,8 +1,6 @@
-# Hi 👋, I'm Satyam Soni
+# Hi 👋, I'm SATYAM SONI
 
 ### CS Undergrad | Python & Data Analytics | AI Tools & Automation Enthusiast
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsoni04&label=Profile views&color=0e75b6&style=flat" alt="satyamsoni04" /> </p>
 
 - 🔭 I'm currently working on **AI-powered applications and Data Analytics projects using Python , SQL & Power BI .**
 
