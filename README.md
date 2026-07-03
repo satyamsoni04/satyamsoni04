@@ -38,3 +38,6 @@
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="40" height="40"/>
 </p>
+
+<img width="480" height="270" alt="gif" src="https://github.com/user-attachments/assets/9f0043dd-308d-4b23-be09-53a171911fee" />
+
