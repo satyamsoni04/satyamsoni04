@@ -1,6 +1,6 @@
 # Hi 👋, I'm SATYAM SONI
 
-### CS Undergrad | Python & Data Analytics | AI Tools & Automation Enthusiast
+### CS Graduate | Python & Data Analytics | AI Tools & Automation Enthusiast
 
 - 🔭 I'm currently working on **AI-powered applications and Data Analytics projects using Python, SQL & Power BI.**
 
